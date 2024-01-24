@@ -13,7 +13,4 @@ public class Student {
         this.nameGroup = nameGroup;
     }
 
-    public Student() {
-    }
-
 }
